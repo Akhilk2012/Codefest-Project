@@ -1,3 +1,3 @@
 import pygame
 
-pugame.init()
+pygame.init()
